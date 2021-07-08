@@ -1,0 +1,7 @@
+﻿' -----------------
+'  Ver 1.00.01
+' -----------------
+1. Created by Ace Tan.
+This program allow you to kill program and launch program.
+The list of program to be add in the program list by adding the name of the application. 
+' -----------------

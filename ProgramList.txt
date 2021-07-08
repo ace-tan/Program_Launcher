@@ -1,0 +1,2 @@
+﻿notepad, C:\Windows\System32\Notepad.exe
+OUTLOOK, C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE
