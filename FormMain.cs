@@ -257,5 +257,10 @@ namespace ProgramStatus
                 if (this.Controls[i] is Button) this.Controls[i].Dispose();
             }
         }
+
+        private void settingToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("notepad.exe", AppDomain.CurrentDomain.BaseDirectory + @"\ProgramList.txt");
+        }
     }
 }
